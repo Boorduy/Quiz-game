@@ -1,0 +1,80 @@
+ {"questions": [
+    {
+        "question": "what is css?",
+        "answers": [
+            {"text": "Cascading Style Sheets", "correct": true},
+            {"text": "Counter strict strike", "correct": false},
+            {"text": "I dont Know", "correct": false},
+            {"text": "can siera solace", "correct": false}
+        ]
+    },
+    {
+        "question": "what is html?",
+        "answers": [
+            {"text": "Hypertext Markup Language", "correct": false},
+            {"text": "Hypertag Machine Learning", "correct": false},
+            {"text": "Heretext Man Learning", "correct": false},
+            {"text": "Hypertext Markup language", "correct": true}
+        ]
+    },
+    {
+        "question": "who created Python?",
+        "answers": [
+            {"text": "William Yappingham", "correct": false},
+            {"text": "Guido van Rossum", "correct": true},
+            {"text": "Ryan Gosling", "correct": false},
+            {"text": "Max van Blossum", "correct": false}
+        ]
+    },
+    {
+        "question": "what are 2 global languages used to program video games",
+        "answers": [
+            {"text": "C++, Python", "correct": false},
+            {"text": "C#, Assembly", "correct": false},
+            {"text": "JavaScript, C", "correct": false},
+            {"text": "C#, C++", "correct": true}
+        ]
+    },
+    {
+        "question": "What was the most downloaded app of the 2010s?",
+        "answers": [
+            {"text": "Facebook", "correct": true},
+            {"text": "Instagram", "correct": false},
+            {"text": "Youtube, C", "correct": false},
+            {"text": "Clash of Clans", "correct": false}
+        ]
+    },
+    {
+        "question": "One gigabyte is equal to how many megabytes?",
+        "answers": [
+            {"text": "None", "correct": false},
+            {"text": "10,000 MB", "correct": false},
+            {"text": "1,000 MB", "correct": true},
+            {"text": "948 MB", "correct": false}
+        ]
+    },
+    {
+        "question": "What letter is used to to paste information when clicked synchronously with Ctrl?",
+        "answers": [
+            {"text": "A", "correct": false},
+            {"text": "H", "correct": false},
+            {"text": "C", "correct": false},
+            {"text": "V", "correct": true}
+        ]
+    },
+    {
+        "question": "How did I fill out my questions?",
+        "answers": [
+            {"text": "data straight in JS", "correct": false},
+            {"text": "Used .JSON file and Local Storage", "correct": true},
+            {"text": "IDK", "correct": false}
+        ]
+    },
+    {
+        "question": "Who Made this Quiz?",
+        "answers": [
+            {"text": "Bardia Nazeri", "correct": true}
+        ]
+    }
+]
+}
